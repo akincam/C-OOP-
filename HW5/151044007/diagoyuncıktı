@@ -1,0 +1,171 @@
+akncam@akncam:~/Masaüstü$ ./exe
+PLUS /P/ DİAG /D/ UNDO /U/---->D
+
+
+
+Enter row---->5
+
+
+
+Enter column---->9
+
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>P
+
+A B C D E F G H I 
+* * * * * * * * * 
+* * * * * * * * * 
+* * * * * * * * * 
+* * * * * * * * * 
+* * * * * * * * * 
+User X  Enter a position  or (load or save)--->A
+
+A B C D E F G H I 
+* * * * * * * * * 
+* * * * * * * * * 
+* * * * * * * * * 
+* * * * * * * * * 
+X * * * * * * * * 
+User O  Enter a position  or (load or save)--->B
+
+A B C D E F G H I 
+* * * * * * * * * 
+* * * * * * * * * 
+* * * * * * * * * 
+* * * * * * * * * 
+X O * * * * * * * 
+User X  Enter a position  or (load or save)--->A
+
+A B C D E F G H I 
+* * * * * * * * * 
+* * * * * * * * * 
+* * * * * * * * * 
+X * * * * * * * * 
+X O * * * * * * * 
+User O  Enter a position  or (load or save)--->B
+
+A B C D E F G H I 
+* * * * * * * * * 
+* * * * * * * * * 
+* * * * * * * * * 
+X O * * * * * * * 
+X O * * * * * * * 
+User X  Enter a position  or (load or save)--->A
+
+A B C D E F G H I 
+* * * * * * * * * 
+* * * * * * * * * 
+X * * * * * * * * 
+X O * * * * * * * 
+X O * * * * * * * 
+User O  Enter a position  or (load or save)--->B
+
+A B C D E F G H I 
+* * * * * * * * * 
+* * * * * * * * * 
+X O * * * * * * * 
+X O * * * * * * * 
+X O * * * * * * * 
+User X  Enter a position  or (load or save)--->A
+
+A B C D E F G H I 
+* * * * * * * * * 
+X * * * * * * * * 
+X O * * * * * * * 
+X O * * * * * * * 
+X O * * * * * * * 
+User O  Enter a position  or (load or save)--->C
+
+A B C D E F G H I 
+* * * * * * * * * 
+X * * * * * * * * 
+X O * * * * * * * 
+X O * * * * * * * 
+X O O * * * * * * 
+User X  Enter a position  or (load or save)--->D
+
+A B C D E F G H I 
+* * * * * * * * * 
+X * * * * * * * * 
+X O * * * * * * * 
+X O * * * * * * * 
+X O O X * * * * * 
+User O  Enter a position  or (load or save)--->C
+
+A B C D E F G H I 
+* * * * * * * * * 
+X * * * * * * * * 
+X O * * * * * * * 
+X O O * * * * * * 
+X O O X * * * * * 
+User X  Enter a position  or (load or save)--->E
+
+A B C D E F G H I 
+* * * * * * * * * 
+X * * * * * * * * 
+X O * * * * * * * 
+X O O * * * * * * 
+X O O X X * * * * 
+User O  Enter a position  or (load or save)--->F
+
+A B C D E F G H I 
+* * * * * * * * * 
+X * * * * * * * * 
+X O * * * * * * * 
+X O O * * * * * * 
+X O O X X O * * * 
+User X  Enter a position  or (load or save)--->D
+
+A B C D E F G H I 
+* * * * * * * * * 
+X * * * * * * * * 
+X O * * * * * * * 
+X O O X * * * * * 
+X O O X X O * * * 
+User O  Enter a position  or (load or save)--->D
+
+A B C D E F G H I 
+* * * * * * * * * 
+X * * * * * * * * 
+X O * O * * * * * 
+X O O X * * * * * 
+X O O X X O * * * 
+User X  Enter a position  or (load or save)--->E
+
+A B C D E F G H I 
+* * * * * * * * * 
+X * * * * * * * * 
+X O * O * * * * * 
+X O O X X * * * * 
+X O O X X O * * * 
+User O  Enter a position  or (load or save)--->F
+
+A B C D E F G H I 
+* * * * * * * * * 
+X * * * * * * * * 
+X O * O * * * * * 
+X O O X X O * * * 
+X O O X X O * * * 
+User X  Enter a position  or (load or save)--->E
+
+A B C D E F G H I 
+* * * * * * * * * 
+X * * * * * * * * 
+X O * O X * * * * 
+X O O X X O * * * 
+X O O X X O * * * 
+User O  Enter a position  or (load or save)--->E
+
+User O Win
+
+
+A B C D E F G H I 
+* * * * * * * * * 
+X * * * o * * * * 
+X O * o X * * * * 
+X O o X X O * * * 
+X o O X X O * * * 
+
+***********************************************
+

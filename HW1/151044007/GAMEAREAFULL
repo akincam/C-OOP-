@@ -1,0 +1,172 @@
+akncam@akncam:~/Masaüstü/151044007$ g++ -c main.cpp -std=c++11
+akncam@akncam:~/Masaüstü/151044007$ g++ -o exe main.o
+akncam@akncam:~/Masaüstü/151044007$ ./exe
+
+Please enter a double number between 4 and 20-->4
+
+Press 'P' for MULTİPLAYER or Press 'C' for COMPUTER vs USER->>>a
+
+Press 'P' for MULTİPLAYER or Press 'C' for COMPUTER vs USER->>>b
+
+Press 'P' for MULTİPLAYER or Press 'C' for COMPUTER vs USER->>>d
+
+Press 'P' for MULTİPLAYER or Press 'C' for COMPUTER vs USER->>>P
+
+
+   ****************************
+
+   * User1 is 'X' User2 is 'O' *
+
+   ****************************
+
+ABCD
+....
+....
+....
+....
+
+User1 Choose a location from A to D  -->>a
+
+ABCD
+....
+....
+....
+X...
+
+User2 Choose a location from A to D  -->>a
+
+ABCD
+....
+....
+O...
+X...
+
+User1 Choose a location from A to D  -->>a
+
+ABCD
+....
+X...
+O...
+X...
+
+User2 Choose a location from A to D  -->>a
+
+ABCD
+O...
+X...
+O...
+X...
+
+User1 Choose a location from A to D  -->>a
+
+
+This column is full choose another column
+
+
+User1 Choose a location from A to D  -->>a
+
+
+This column is full choose another column
+
+
+User1 Choose a location from A to D  -->>b
+
+ABCD
+O...
+X...
+O...
+XX..
+
+User2 Choose a location from A to D  -->>b
+
+ABCD
+O...
+X...
+OO..
+XX..
+
+User1 Choose a location from A to D  -->>b
+
+ABCD
+O...
+XX..
+OO..
+XX..
+
+User2 Choose a location from A to D  -->>b
+
+ABCD
+OO..
+XX..
+OO..
+XX..
+
+User1 Choose a location from A to D  -->>d
+
+ABCD
+OO..
+XX..
+OO..
+XX.X
+
+User2 Choose a location from A to D  -->>c
+
+ABCD
+OO..
+XX..
+OO..
+XXOX
+
+User1 Choose a location from A to D  -->>c
+
+ABCD
+OO..
+XX..
+OOX.
+XXOX
+
+User2 Choose a location from A to D  -->>c
+
+ABCD
+OO..
+XXO.
+OOX.
+XXOX
+
+User1 Choose a location from A to D  -->>c
+
+ABCD
+OOX.
+XXO.
+OOX.
+XXOX
+
+User2 Choose a location from A to D  -->>d
+
+ABCD
+OOX.
+XXO.
+OOXO
+XXOX
+
+User1 Choose a location from A to D  -->>d
+
+ABCD
+OOX.
+XXOX
+OOXO
+XXOX
+
+User2 Choose a location from A to D  -->>d
+
+ABCD
+OOXO
+XXOX
+OOXO
+XXOX
+
+
+The gameBoard is full
+the end...
+akncam@akncam:~/Masaüstü/151044007$ 
+

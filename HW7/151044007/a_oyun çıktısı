@@ -1,0 +1,238 @@
+Set is empty
+
+--------------------------------------------------------
+Size is-------->0
+
+--------------------------------------------------------
+Capacity is-------->1
+
+------------------eleman ekliyorum----------------------
+
+elemnts--> 10
+
+elemnts--> 20
+
+elemnts--> 30
+
+elemnts--> 40
+
+elemnts--> 55
+
+elemnts--> 64
+-------------eleman çıkarıyorum---------------------------
+
+elemnts--> 20
+
+elemnts--> 40
+
+elemnts--> 55
+
+elemnts--> 64
+
+------elemanları previous ile yeniden yazdırıyorum-------
+
+elemnts--> 64
+
+elemnts--> 55
+
+elemnts--> 40
+
+elemnts--> 20
+
+---------------------------------------------------------
+
+Set isn't empty
+
+---------------------------------------------------------
+
+ Aranan eleman burada
+Size is-------->4
+
+---------------------------------------------------------
+Capacity is-------->4
+
+-------------- setInt oluşturdum eleman ekledim----------
+
+-------------- 40/15/24 ekledim------------------------
+
+
+------------- setInt oluşturdum yeniden eleman ekledim---
+
+-------------- 40/15 ekledim---------------------------
+
+
+---------Intersection yaptım --------------------------
+
+Intersection size is--> 2
+--------------------------------------------------------
+
+
+elemnts--> 15
+
+elemnts--> 40
+********************************************************
+
+----***********************************************-----
+
+--------***************************************---------
+
+----***********************************************-----
+
+********************************************************
+
+Set is empty
+
+--------------------------------------------------------
+Size is-------->0
+
+--------------------------------------------------------
+Capacity is-------->1
+
+------------------eleman ekliyorum----------------------
+
+elemnts--> akin
+
+elemnts--> altun
+
+elemnts--> ebru
+
+elemnts--> hidayet
+
+elemnts--> kangal
+
+elemnts--> sivas
+-------------eleman çıkarıyorum---------------------------
+
+elemnts--> altun
+
+elemnts--> hidayet
+
+elemnts--> kangal
+
+elemnts--> sivas
+
+------elemanları previous ile yeniden yazdırıyorum-------
+
+elemnts--> sivas
+
+elemnts--> kangal
+
+elemnts--> hidayet
+
+elemnts--> altun
+
+---------------------------------------------------------
+
+Set isn't empty
+
+---------------------------------------------------------
+Size is-------->4
+
+---------------------------------------------------------
+Capacity is-------->4
+
+-------------- setInt oluşturdum eleman ekledim----------
+
+------------- setInt oluşturdum yeniden eleman ekledim---
+
+---------Intersection yaptım --------------------------
+
+
+There is no intersection
+
+Intersection size is--> 0
+--------------------------------------------------------
+
+---------find yapıyorum----sivas ı arıyorum----------------
+
+
+finding element is--> sivas
+*********************Map için test**********************
+
+----*****************Map için test*****************-----
+
+--------*************Map için test*************---------
+
+----*****************Map için test*****************-----
+
+*********************Map için test**********************
+
+Set is empty
+
+--------------------------------------------------------
+Size is-------->0
+
+--------------------------------------------------------
+Capacity is-------->1
+
+------------------eleman ekliyorum----------------------
+
+----At methodunu kullanıyorum |akin|---> 3
+
+----At methodunu kullanıyorum |ali|---> null
+
+elemnts--> akin=3
+
+elemnts--> altun=5
+
+elemnts--> ebru=6
+
+elemnts--> hidayet=7
+
+elemnts--> kangal=22
+
+elemnts--> sivas=34
+-------------eleman çıkarıyorum---------------------------
+
+elemnts--> akin=3
+
+elemnts--> altun=5
+
+elemnts--> ebru=6
+
+elemnts--> kangal=22
+
+elemnts--> sivas=34
+
+------elemanları previous ile yeniden yazdırıyorum-------
+
+elemnts--> sivas=34
+
+elemnts--> kangal=22
+
+elemnts--> ebru=6
+
+elemnts--> altun=5
+
+elemnts--> akin=3
+
+---------------------------------------------------------
+
+Set isn't empty
+
+---------------------------------------------------------
+Size is-------->5
+
+---------------------------------------------------------
+Capacity is-------->6
+
+-------------- setInt oluşturdum eleman ekledim----------
+
+------------- setInt oluşturdum yeniden eleman ekledim---
+
+---------Intersection yaptım --------------------------
+
+Intersection size is--> 2
+--------------------------------------------------------
+
+
+elemnts--> elma=armut
+
+elemnts--> kivi=nar
+
+---------find yapıyorum----------------------
+
+
+finding element is--> ebru=6
+BUILD SUCCESSFUL (total time: 0 seconds)
+

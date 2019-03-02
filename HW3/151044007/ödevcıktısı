@@ -1,0 +1,488 @@
+akncam@akncam:~/Masaüstü/151044007$ make
+g++ main.o -o exe 
+akncam@akncam:~/Masaüstü/151044007$ ./exe
+SİNGLE /S/ MULTİ /M/---->S
+
+
+
+Enter row---->A
+
+False type! Enter row again
+
+
+Enter row---->B
+
+False type! Enter row again
+
+
+Enter row---->6
+
+
+
+Enter column---->6
+
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>P
+
+
+   ****************************
+
+   *User1 is 'X'  User2 is 'O'*
+
+   ****************************
+
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+User X  Enter a position  or (load or save)--->A
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+X . . . . . 
+User O  Enter a position  or (load or save)--->B
+LivingCell->>2
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+X O . . . . 
+User X  Enter a position  or (load or save)--->C
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+X O X . . . 
+User O  Enter a position  or (load or save)--->D
+LivingCell->>4
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+X O X O . . 
+User X  Enter a position  or (load or save)--->A
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+X . . . . . 
+X O X O . . 
+User O  Enter a position  or (load or save)--->B
+LivingCell->>6
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+X O . . . . 
+X O X O . . 
+User X  Enter a position  or (load or save)--->C
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+X O X . . . 
+X O X O . . 
+User O  Enter a position  or (load or save)--->A
+LivingCell->>8
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+O . . . . . 
+X O X . . . 
+X O X O . . 
+User X  Enter a position  or (load or save)--->B
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+O X . . . . 
+X O X . . . 
+X O X O . . 
+User O  Enter a position  or (load or save)--->C
+LivingCell->>10
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+O X O . . . 
+X O X . . . 
+X O X O . . 
+User X  Enter a position  or (load or save)--->C
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . X . . . 
+O X O . . . 
+X O X . . . 
+X O X O . . 
+User O  Enter a position  or (load or save)--->D
+LivingCell->>12
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . X . . . 
+O X O . . . 
+X O X O . . 
+X O X O . . 
+User X  Enter a position  or (load or save)--->D
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . X . . . 
+O X O X . . 
+X O X O . . 
+X O X O . . 
+User O  Enter a position  or (load or save)--->D
+LivingCell->>14
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . X O . . 
+O X O X . . 
+X O X O . . 
+X O X O . . 
+User X  Enter a position  or (load or save)--->D
+
+*****User X Win The Game*****
+
+
+A B C D E F 
+. . . . . . 
+. . . x . . 
+. . x O . . 
+O x O X . . 
+x O X O . . 
+X O X O . . 
+
+*****User X Win The Game*****
+
+**************************************************************************
+
+akncam@akncam:~/Masaüstü/151044007$ make
+g++ main.o -o exe 
+akncam@akncam:~/Masaüstü/151044007$ ./exe
+SİNGLE /S/ MULTİ /M/---->S
+
+
+
+Enter row---->7
+
+
+
+Enter column---->7
+
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>C
+
+
+   ****************************
+
+   *User1 is 'X' Computer is 'O'*
+
+   ****************************
+
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+User X  Enter a position  or (load or save)--->B
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. X . . . . . 
+LivingCell->>2
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O X . . . . . 
+User X  Enter a position  or (load or save)--->C
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O X X . . . . 
+LivingCell->>4
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O . . . . . . 
+O X X . . . . 
+User X  Enter a position  or (load or save)--->D
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O . . . . . . 
+O X X X . . . 
+3LivingCell->>6
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O . . . . . . 
+O X X X O . . 
+User X  Enter a position  or (load or save)--->D
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O . . X . . . 
+O X X X O . . 
+LivingCell->>8
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O . . . . . . 
+O . . X . . . 
+O X X X O . . 
+User X  Enter a position  or (load or save)--->E
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O . . . . . . 
+O . . X X . . 
+O X X X O . . 
+LivingCell->>10
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+o . . . . . . 
+o . . . . . . 
+o . . X X . . 
+o X X X O . . 
+
+*****User O Win The Game*****
+
+************************************************
+
+akncam@akncam:~/Masaüstü/151044007$ make
+g++ main.o -o exe 
+akncam@akncam:~/Masaüstü/151044007$ ./exe
+SİNGLE /S/ MULTİ /M/---->S
+
+
+
+Enter row---->4
+
+
+
+Enter column---->4
+
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>P
+
+
+   ****************************
+
+   *User1 is 'X'  User2 is 'O'*
+
+   ****************************
+
+
+A B C D 
+. . . . 
+. . . . 
+. . . . 
+. . . . 
+User X  Enter a position  or (load or save)--->A
+
+A B C D 
+. . . . 
+. . . . 
+. . . . 
+X . . . 
+User O  Enter a position  or (load or save)--->B
+LivingCell->>2
+
+A B C D 
+. . . . 
+. . . . 
+. . . . 
+X O . . 
+User X  Enter a position  or (load or save)--->A
+
+A B C D 
+. . . . 
+. . . . 
+X . . . 
+X O . . 
+User O  Enter a position  or (load or save)--->B
+LivingCell->>4
+
+A B C D 
+. . . . 
+. . . . 
+X O . . 
+X O . . 
+User X  Enter a position  or (load or save)--->A
+
+A B C D 
+. . . . 
+X . . . 
+X O . . 
+X O . . 
+User O  Enter a position  or (load or save)--->A
+LivingCell->>6
+
+A B C D 
+O . . . 
+X . . . 
+X O . . 
+X O . . 
+User X  Enter a position  or (load or save)--->A
+Wrong Position ! try again use 
+User X  Enter a position  or (load or save)--->B
+
+A B C D 
+O . . . 
+X X . . 
+X O . . 
+X O . . 
+User O  Enter a position  or (load or save)--->C
+LivingCell->>8
+
+A B C D 
+O . . . 
+X X . . 
+X O . . 
+X O O . 
+User X  Enter a position  or (load or save)--->D
+
+A B C D 
+O . . . 
+X X . . 
+X O . . 
+X O O X 
+User O  Enter a position  or (load or save)--->B
+LivingCell->>10
+
+A B C D 
+O O . . 
+X X . . 
+X O . . 
+X O O X 
+User X  Enter a position  or (load or save)--->C
+
+A B C D 
+O O . . 
+X X . . 
+X O X . 
+X O O X 
+User O  Enter a position  or (load or save)--->D
+LivingCell->>12
+
+A B C D 
+O O . . 
+X X . . 
+X O X O 
+X O O X 
+User X  Enter a position  or (load or save)--->C
+
+A B C D 
+O O . . 
+X X X . 
+X O X O 
+X O O X 
+User O  Enter a position  or (load or save)--->D
+LivingCell->>14
+
+A B C D 
+O O . . 
+X X X O 
+X O X O 
+X O O X 
+User X  Enter a position  or (load or save)--->C
+
+A B C D 
+O O X . 
+X X X O 
+X O X O 
+X O O X 
+User O  Enter a position  or (load or save)--->D
+
+The gameBoard is full
+the end...
+LivingCell->>16
+
+A B C D 
+O O X O 
+X X X O 
+X O X O 
+X O O X 
+
+
+

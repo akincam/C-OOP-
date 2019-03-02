@@ -1,0 +1,145 @@
+akncam@akncam:~/Masaüstü$ make
+g++ -c connectfourabstract.cpp -std=c++11
+g++ -c connectfourplusundo.cpp -std=c++11
+g++ main.o connectfourabstract.o cell.o connectfourplus.o connectfourdiag.o connectfourplusundo.o -o exe
+akncam@akncam:~/Masaüstü$ ./exe
+PLUS /P/ DİAG /D/ UNDO /U/---->P
+
+
+
+Enter row---->4
+
+
+
+Enter column---->4
+
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>P
+
+A B C D 
+* * * * 
+* * * * 
+* * * * 
+* * * * 
+User X  Enter a position  or (load or save)--->A
+
+A B C D 
+* * * * 
+* * * * 
+* * * * 
+X * * * 
+User O  Enter a position  or (load or save)--->A
+
+A B C D 
+* * * * 
+* * * * 
+O * * * 
+X * * * 
+User X  Enter a position  or (load or save)--->A
+
+A B C D 
+* * * * 
+X * * * 
+O * * * 
+X * * * 
+User O  Enter a position  or (load or save)--->AA
+Missing Input! try again
+User O  Enter a position  or (load or save)--->A
+
+A B C D 
+O * * * 
+X * * * 
+O * * * 
+X * * * 
+User X  Enter a position  or (load or save)--->A
+Wrong Position ! try again use 
+User X  Enter a position  or (load or save)--->B
+
+A B C D 
+O * * * 
+X * * * 
+O * * * 
+X X * * 
+User O  Enter a position  or (load or save)--->B
+
+A B C D 
+O * * * 
+X * * * 
+O O * * 
+X X * * 
+User X  Enter a position  or (load or save)--->B
+
+A B C D 
+O * * * 
+X X * * 
+O O * * 
+X X * * 
+User O  Enter a position  or (load or save)--->B
+
+A B C D 
+O O * * 
+X X * * 
+O O * * 
+X X * * 
+User X  Enter a position  or (load or save)--->D
+
+A B C D 
+O O * * 
+X X * * 
+O O * * 
+X X * X 
+User O  Enter a position  or (load or save)--->C
+
+A B C D 
+O O * * 
+X X * * 
+O O * * 
+X X O X 
+User X  Enter a position  or (load or save)--->C
+
+A B C D 
+O O * * 
+X X * * 
+O O X * 
+X X O X 
+User O  Enter a position  or (load or save)--->C
+
+A B C D 
+O O * * 
+X X O * 
+O O X * 
+X X O X 
+User X  Enter a position  or (load or save)--->C
+
+A B C D 
+O O X * 
+X X O * 
+O O X * 
+X X O X 
+User O  Enter a position  or (load or save)--->D
+
+A B C D 
+O O X * 
+X X O * 
+O O X O 
+X X O X 
+User X  Enter a position  or (load or save)--->D
+
+A B C D 
+O O X * 
+X X O X 
+O O X O 
+X X O X 
+User O  Enter a position  or (load or save)--->D
+
+The gameBoard is full
+the end...
+
+A B C D 
+O O X O 
+X X O X 
+O O X O 
+X X O X 
+akncam@akncam:~/Masaüstü$ 
+

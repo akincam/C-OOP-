@@ -1,0 +1,668 @@
+akncam@akncam:~/Masaüstü/A$ make
+g++ main.o -o exe 
+akncam@akncam:~/Masaüstü/A$ ./exe
+SİNGLE /S/ MULTİ /M/---->M
+
+
+****GAME 1****
+
+
+Enter row---->4
+
+
+
+Enter column---->4
+
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>P
+****GAME 2****
+
+
+Enter row---->5
+
+
+
+Enter column---->5
+
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>P
+****GAME 3****
+
+
+Enter row---->6
+
+
+
+Enter column---->6
+
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>C
+****GAME 4****
+
+
+Enter row---->7
+
+
+
+Enter column---->7
+
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>C
+****GAME 5****
+
+
+Enter row---->8
+
+
+
+Enter column---->8
+
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>P
+Choose a Object-->1
+
+
+A B C D 
+. . . . 
+. . . . 
+. . . . 
+. . . . 
+User X  Enter a position  or (load or save)--->A
+
+A B C D 
+. . . . 
+. . . . 
+. . . . 
+X . . . 
+User O  Enter a position  or (load or save)--->B
+
+A B C D 
+. . . . 
+. . . . 
+. . . . 
+X O . . 
+All Living Cell-->2
+Choose a Object-->2
+
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+User X  Enter a position  or (load or save)--->A
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+X . . . . 
+User O  Enter a position  or (load or save)--->B
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+X O . . . 
+Choose a Object-->3
+
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+User X  Enter a position  or (load or save)--->A
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+X . . . . . 
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+X O . . . . 
+All Living Cell-->6
+Choose a Object-->4
+
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+User X  Enter a position  or (load or save)--->6
+Wrong Position ! try again use UpperCase
+User X  Enter a position  or (load or save)--->D
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . X . . . 
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O . . X . . . 
+All Living Cell-->8
+Choose a Object-->5
+
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O . . X . . . 
+User X  Enter a position  or (load or save)--->E
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O . . X X . . 
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O O . X X . . 
+Choose a Object-->1
+
+
+A B C D 
+. . . . 
+. . . . 
+. . . . 
+X O . . 
+User X  Enter a position  or (load or save)--->A
+
+A B C D 
+. . . . 
+. . . . 
+X . . . 
+X O . . 
+User O  Enter a position  or (load or save)--->B
+
+A B C D 
+. . . . 
+. . . . 
+X O . . 
+X O . . 
+All Living Cell-->12
+Choose a Object-->1
+
+
+A B C D 
+. . . . 
+. . . . 
+X O . . 
+X O . . 
+User X  Enter a position  or (load or save)--->A
+
+A B C D 
+. . . . 
+X . . . 
+X O . . 
+X O . . 
+User O  Enter a position  or (load or save)--->B
+
+A B C D 
+. . . . 
+X O . . 
+X O . . 
+X O . . 
+All Living Cell-->14
+Choose a Object-->1
+
+
+A B C D 
+. . . . 
+X O . . 
+X O . . 
+X O . . 
+User X  Enter a position  or (load or save)--->A
+
+*****User X Win The Game*****
+
+
+A B C D 
+x . . . 
+x O . . 
+x O . . 
+x O . . 
+All Living Cell-->15
+Choose a Object-->1
+
+Game one is finished AND BETTER OTHERS
+Choose a Object-->2
+
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+X O . . . 
+User X  Enter a position  or (load or save)--->C
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+X O X . . 
+User O  Enter a position  or (load or save)--->D
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+X O X O . 
+Choose a Object-->5
+
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O O . X X . . 
+User X  Enter a position  or (load or save)--->F
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O O . X X X . 
+3
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O O . X X X O 
+Choose a Object-->5
+
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+O O . X X X O 
+User X  Enter a position  or (load or save)--->F
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . X . 
+O O . X X X O 
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . X . 
+O O O X X X O 
+Choose a Object-->5
+
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . X . 
+O O O X X X O 
+User X  Enter a position  or (load or save)--->F
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . X . 
+. . . . . X . 
+O O O X X X O 
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . O . 
+. . . . . X . 
+. . . . . X . 
+O O O X X X O 
+Choose a Object-->G
+
+False type! Enter object again
+Choose a Object-->5
+
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . O . 
+. . . . . X . 
+. . . . . X . 
+O O O X X X O 
+User X  Enter a position  or (load or save)--->G
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . O . 
+. . . . . X . 
+. . . . . X X 
+O O O X X X O 
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . O . 
+. . . . . X O 
+. . . . . X X 
+O O O X X X O 
+Choose a Object-->1
+
+Game one is finished AND BETTER OTHERS
+Choose a Object-->5
+
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . O . 
+. . . . . X O 
+. . . . . X X 
+O O O X X X O 
+User X  Enter a position  or (load or save)--->G
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . O X 
+. . . . . X O 
+. . . . . X X 
+O O O X X X O 
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . O X 
+. . . . . X O 
+. . . . O X X 
+O O O X X X O 
+Choose a Object-->5
+
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . O X 
+. . . . . X O 
+. . . . O X X 
+O O O X X X O 
+User X  Enter a position  or (load or save)--->E
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . . O X 
+. . . . X X O 
+. . . . O X X 
+O O O X X X O 
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . O O X 
+. . . . X X O 
+. . . . O X X 
+O O O X X X O 
+Choose a Object-->5
+
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . . . . 
+. . . . O O X 
+. . . . X X O 
+. . . . O X X 
+O O O X X X O 
+User X  Enter a position  or (load or save)--->E
+
+A B C D E F G 
+. . . . . . . 
+. . . . . . . 
+. . . . X . . 
+. . . . O O X 
+. . . . X X O 
+. . . . O X X 
+O O O X X X O 
+
+A B C D E F G 
+. . . . . . . 
+. . . . O . . 
+. . . . X . . 
+. . . . O O X 
+. . . . X X O 
+. . . . O X X 
+O O O X X X O 
+Choose a Object-->5
+
+
+A B C D E F G 
+. . . . . . . 
+. . . . O . . 
+. . . . X . . 
+. . . . O O X 
+. . . . X X O 
+. . . . O X X 
+O O O X X X O 
+User X  Enter a position  or (load or save)--->F
+
+A B C D E F G 
+. . . . . . . 
+. . . . O . . 
+. . . . X X . 
+. . . . O O X 
+. . . . X X O 
+. . . . O X X 
+O O O X X X O 
+
+A B C D E F G 
+. . . . O . . 
+. . . . O . . 
+. . . . X X . 
+. . . . O O X 
+. . . . X X O 
+. . . . O X X 
+O O O X X X O 
+Choose a Object-->2
+
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . . . . 
+. . . . . 
+X O X O . 
+User X  Enter a position  or (load or save)--->B
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . . . . 
+. X . . . 
+X O X O . 
+User O  Enter a position  or (load or save)--->C
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . . . . 
+. X O . . 
+X O X O . 
+Choose a Object-->2
+
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . . . . 
+. X O . . 
+X O X O . 
+User X  Enter a position  or (load or save)--->C
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . X . . 
+. X O . . 
+X O X O . 
+User O  Enter a position  or (load or save)--->D
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . X . . 
+. X O O . 
+X O X O . 
+Choose a Object-->2
+
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . X . . 
+. X O O . 
+X O X O . 
+User X  Enter a position  or (load or save)--->E
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . X . . 
+. X O O . 
+X O X O X 
+User O  Enter a position  or (load or save)--->D
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . X O . 
+. X O O . 
+X O X O X 
+Choose a Object-->2
+
+
+A B C D E 
+. . . . . 
+. . . . . 
+. . X O . 
+. X O O . 
+X O X O X 
+User X  Enter a position  or (load or save)--->D
+
+*****User X Win The Game*****
+
+
+A B C D E 
+. . . . . 
+. . . x . 
+. . x O . 
+. x O O . 
+x O X O X 
+Choose a Object-->3
+
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+X O . . . . 
+User X  Enter a position  or (load or save)--->F
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+X O . . . X 
+
+A B C D E F 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+X O O . . X 
+All Living Cell-->42
+

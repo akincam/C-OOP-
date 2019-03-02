@@ -1,0 +1,54 @@
+run:
+Set is empty
+
+--------------------------------------------------------
+Size is-------->0
+
+--------------------------------------------------------
+Capacity is-------->1
+
+------------------eleman ekliyorum----------------------
+
+elemnts--> a
+
+elemnts--> d
+
+elemnts--> f
+
+elemnts--> g
+
+elemnts--> i
+
+elemnts--> n
+-------------eleman çıkarıyorum---------------------------
+
+elemnts--> d
+
+elemnts--> g
+
+elemnts--> i
+
+elemnts--> n
+
+------elemanları previous ile yeniden yazdırıyorum-------
+
+elemnts--> n
+
+elemnts--> i
+
+elemnts--> g
+
+elemnts--> d
+
+---------------------------------------------------------
+
+Set isn't empty
+
+-------------------------p elemanını arıyorum-----------------------
+
+ Aranan eleman burada değil
+
+----------------------aynı elemanı insert ediyorum---------------
+
+----------aynı elemanı eklediniz--------------
+BUILD SUCCESSFUL (total time: 0 seconds)

@@ -1,0 +1,1235 @@
+akncam@akncam:~/Masaüstü$ ./exe <r5
+SİNGLE /S/ MULTİ /M/---->
+File Name: 
+
+Press 'P' for PvP......Press 'C' for PvC ->>>
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+* * * * * * * * * * * * * 
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A * * * * * * * * * * * * 
+
+livingCell->> 1
+
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A * C * * * * * * * * * * 
+
+livingCell->> 2
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+A * * * * * * * * * * *   
+A * C * * * * * * * * * * 
+
+livingCell->> 3
+
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+A * C * * * * * * * * *   
+A * C * * * * * * * * * * 
+
+livingCell->> 4
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+A * C * * * * * * * * *   
+A * C * * * * * A * * * * 
+
+livingCell->> 5
+
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * C * * * * * * * *     
+A * C * * * * * * * * *   
+A * C * * * * * A * * * * 
+
+livingCell->> 6
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * C * * * * * * * *     
+A * C * * * * * A * * *   
+A * C * * * * * A * * * * 
+
+livingCell->> 7
+
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * C * * * * * * *       
+* * C * * * * * * * *     
+A * C * * * * * A * * *   
+A * C * * * * * A * * * * 
+
+livingCell->> 8
+
+*****User C Win The Game*****
+
+akncam@akncam:~/Masaüstü$ ./exe <r4
+SİNGLE /S/ MULTİ /M/---->
+File Name: 
+
+Press 'P' for PvP......Press 'C' for PvC ->>>
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+* * * * * * * * * * * * * 
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A * * * * * * * * * * * * 
+
+livingCell->> 1
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+livingCell->> 2
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+A * * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+livingCell->> 3
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+A B * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+livingCell->> 4
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+A * * * * * * * * * *     
+A B * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+livingCell->> 5
+User B  Enter a position  or (load or save)--->User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+A B * * * * * * * * *     
+A B * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+livingCell->> 6
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+A * * * * * * * * * *     
+A B * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+A * * * * * * * * * *     
+A B * * * * * * * * * *   
+A B * * * * * * * * * * * 
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+B * * * * * * * * *       
+A * * * * * * * * * *     
+A B * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+livingCell->> 6
+User B  Enter a position  or (load or save)--->akncam@akncam:~/Masaüstü$ ./exe <r3
+SİNGLE /S/ MULTİ /M/---->
+File Name: 
+
+Press 'P' for PvP......Press 'C' for PvC ->>>
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+* * * * * * * * * * * * * 
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A * * * * * * * * * * * * 
+
+livingCell->> 1
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+livingCell->> 2
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A B A * * * * * * * * * * 
+
+livingCell->> 3
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A B A B * * * * * * * * * 
+
+livingCell->> 4
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+A * * * * * * * * * * *   
+A B A B * * * * * * * * * 
+
+livingCell->> 5
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+A B * * * * * * * * * *   
+A B A B * * * * * * * * * 
+
+livingCell->> 6
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+A B A * * * * * * * * *   
+A B A B * * * * * * * * * 
+
+livingCell->> 7
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+A B A B * * * * * * * *   
+A B A B * * * * * * * * * 
+
+livingCell->> 8
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* A * * * * * * * * *     
+A B A B * * * * * * * *   
+A B A B * * * * * * * * * 
+
+livingCell->> 9
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* A B * * * * * * * *     
+A B A B * * * * * * * *   
+A B A B * * * * * * * * * 
+
+livingCell->> 10
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* A B A * * * * * * *     
+A B A B * * * * * * * *   
+A B A B * * * * * * * * * 
+
+livingCell->> 11
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+B A B A * * * * * * *     
+A B A B * * * * * * * *   
+A B A B * * * * * * * * * 
+
+livingCell->> 12
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+A * * * * * * * * *       
+B A B A * * * * * * *     
+A B A B * * * * * * * *   
+A B A B * * * * * * * * * 
+
+livingCell->> 13
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+A B * * * * * * * *       
+B A B A * * * * * * *     
+A B A B * * * * * * * *   
+A B A B * * * * * * * * * 
+
+livingCell->> 14
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+A B A * * * * * * *       
+B A B A * * * * * * *     
+A B A B * * * * * * * *   
+A B A B * * * * * * * * * 
+
+livingCell->> 15
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+A B A B * * * * * *       
+B A B A * * * * * * *     
+A B A B * * * * * * * *   
+A B A B * * * * * * * * * 
+
+livingCell->> 16
+User A  Enter a position  or (load or save)--->akncam@akncam:~/Masaüstü$ ./exe <r2
+SİNGLE /S/ MULTİ /M/---->
+File Name: 
+
+Press 'P' for PvP......Press 'C' for PvC ->>>
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+* * * * * * * * * * * * * 
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A * * * * * * * * * * * * 
+
+livingCell->> 1
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+livingCell->> 2
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* A * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+livingCell->> 3
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* A * * * * * * * * * *   
+A B B * * * * * * * * * * 
+
+livingCell->> 4
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* A A * * * * * * * * *   
+A B B * * * * * * * * * * 
+
+livingCell->> 5
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+B A A * * * * * * * * *   
+A B B * * * * * * * * * * 
+
+livingCell->> 6
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * A * * * * * * * *     
+B A A * * * * * * * * *   
+A B B * * * * * * * * * * 
+
+livingCell->> 7
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * A * * * * * * * *     
+B A A * * * * * * * * *   
+A B B B * * * * * * * * * 
+
+livingCell->> 8
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * A * * * * * * * *     
+B A A A * * * * * * * *   
+A B B B * * * * * * * * * 
+
+livingCell->> 9
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * A B * * * * * * *     
+B A A A * * * * * * * *   
+A B B B * * * * * * * * * 
+
+livingCell->> 10
+User A  Enter a position  or (load or save)--->
+User A Win
+
+
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * a * * * * * *       
+* * a B * * * * * * *     
+B a A A * * * * * * * *   
+a B B B * * * * * * * * * 
+
+livingCell->> 11
+akncam@akncam:~/Masaüstü$ ./exe <r1
+SİNGLE /S/ MULTİ /M/---->
+File Name: 
+
+Press 'P' for PvP......Press 'C' for PvC ->>>
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+* * * * * * * * * * * * * 
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A * * * * * * * * * * * * 
+
+livingCell->> 1
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+livingCell->> 2
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+A * * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+livingCell->> 3
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+A B * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+livingCell->> 4
+User A  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+A * * * * * * * * * *     
+A B * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+livingCell->> 5
+User B  Enter a position  or (load or save)--->
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+A B * * * * * * * * *     
+A B * * * * * * * * * *   
+A B * * * * * * * * * * * 
+
+livingCell->> 6
+User A  Enter a position  or (load or save)--->
+User A Win
+
+
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+a * * * * * * * * *       
+a B * * * * * * * * *     
+a B * * * * * * * * * *   
+a B * * * * * * * * * * * 
+
+livingCell->> 7
+**********************************************
+akncam@akncam:~/Masaüstü/YENİ/151044007$ ./exe 
+SİNGLE /S/ MULTİ /M/---->S
+
+File Name: board1.txt
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>C
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+User A  Enter a position  or (load or save)--->A
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+A * * * * * * * * * * * * * * 
+
+livingCell->> 1
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+
+livingCell->> 2
+User A  Enter a position  or (load or save)--->A
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+A * * * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+
+livingCell->> 3
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+
+livingCell->> 4
+User A  Enter a position  or (load or save)--->A
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+A * * * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+
+livingCell->> 5
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+C * * * * * * * * * * * * * * 
+A * * * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+
+livingCell->> 6
+User A  Enter a position  or (load or save)--->SAVE4.TXT
+User A  Enter a position  or (load or save)--->B
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+C * * * * * * * * * * * * * * 
+A * * * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A A C * * * * * * * * * * * * 
+
+livingCell->> 7
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+C * * * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A A C * * * * * * * * * * * * 
+
+livingCell->> 8
+//OYUNU DURDURDUM
+
+**************************************
+
+
+akncam@akncam:~/Masaüstü/YENİ/151044007$ ./exe 
+SİNGLE /S/ MULTİ /M/---->S
+
+File Name: board1.txt
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>C
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+User A  Enter a position  or (load or save)--->A
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+A * * * * * * * * * * * * * * 
+
+livingCell->> 1
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+
+livingCell->> 2
+User A  Enter a position  or (load or save)--->B
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+A A C * * * * * * * * * * * * 
+
+livingCell->> 3
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * C * * * * * * * * * * * * 
+A A C * * * * * * * * * * * * 
+
+livingCell->> 4
+User A  Enter a position  or (load or save)--->A
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A A C * * * * * * * * * * * * 
+
+livingCell->> 5
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * C * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A A C * * * * * * * * * * * * 
+
+livingCell->> 6
+User A  Enter a position  or (load or save)--->SAVE SAVE4.TXT
+User A  Enter a position  or (load or save)--->C
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * A * * * * * * * * * * * * 
+* * C * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A A C * * * * * * * * * * * * 
+
+livingCell->> 7
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * A * * * * * * * * * * * * 
+* * C * * * * * * * * * * * * 
+A C C * * * * * * * * * * * * 
+A A C * * * * * * * * * * * * 
+
+livingCell->> 8
+User A  Enter a position  or (load or save)--->LOAD SAVE4.TXT
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * C * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A A C * * * * * * * * * * * * 
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+* * C * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A A C * * * * * * * * * * * * 
+User A  Enter a position  or (load or save)--->A
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * * * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A A C * * * * * * * * * * * * 
+
+livingCell->> 7
+
+A B C D E F G H I J K L M N O 
+*                           * 
+* *                       * * 
+* * *                   * * * 
+* * * *               * * * * 
+* * * * *         * * * * * * 
+* * * * * *     * * * * * * * 
+* * C * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A * C * * * * * * * * * * * * 
+A A C * * * * * * * * * * * * 
+
+livingCell->> 8
+
+*****User C Win The Game*****
+*****************************************
+
+İKİ OYUNUN BİRBİRİNE EŞİT OLMA DURUMU
+
+
+akncam@akncam:~/Masaüstü/YENİ/151044007$ ./exe 
+SİNGLE /S/ MULTİ /M/---->M
+
+
+****GAME 1****
+File Name: board.txt
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>P
+****GAME 2****
+File Name: board.txt
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>P
+****GAME 3****
+File Name: board.txt
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>P
+****GAME 4****
+File Name: board1.txt
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>P
+****GAME 5****
+File Name: board2.txt
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>c
+Use UpperCase! try again
+
+
+Press 'P' for PvP......Press 'C' for PvC ->>>C
+Choose a Object-->1
+
+User A  Enter a position  or (load or save)--->A
+
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A * * * * * * * * * * * * 
+User B  Enter a position  or (load or save)--->B
+
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A B * * * * * * * * * * * 
+All Living Cell-->2
+Not equal
+Choose a Object-->2
+
+User A  Enter a position  or (load or save)--->A
+
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A * * * * * * * * * * * * 
+User B  Enter a position  or (load or save)--->B
+
+A B C D E F G H I J K L M 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+* * * * * * * * * * *     
+* * * * * * * * * * * *   
+A B * * * * * * * * * * * 
+All Living Cell-->4
+The gameS are equal
+Choose a Object-->^Z
+[12]+  Durdu    
+
+

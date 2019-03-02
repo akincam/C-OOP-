@@ -1,0 +1,10 @@
+
+Ödevi Ubuntu 16.04 de NetBeans te yazdım.
+Oyunu çalıştırmak için main methodunu yaptım.
+oyunun ekran görüntülerini oyun_screenshot klasörüne ekledim.
+user vs user,user vs computer,seçilen column ın dolu olduğu durum,
+user vs computer oynarken gameboard un cellerinin dolması,restart gibi kategorilere göre ekledim.
+Javadoc oluşturdum.
+Daha çok oyun çıktısı ekledim fakat 100mb ı aştığı için silmek zorunda kaldım
+Not: Hocam birkaç defa denk geldim nedenini bulamadım o yüzden buraya yazmak istedim
+Oyunu açtığımda gameboard size a göre doğru bir şekilde oluşuyor ama mouse la tıklayıp eleman ekledıiğimde eklediğim eleman doğru yere ekliyor ama  kayma oldu fotoğraf çok az aşağı ya da yukarı eklendi buna 2 ya da 3 defa denk geldim ama sonra hiç denk gelmedim. Gelmez gelmez size ilk oynadığınızda denk gelir diye söylemek istedim. Oyunu yeniden başlattığınızda düzeliyor.
